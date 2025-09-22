@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Spyder
+.spyderproject
+.spyderworkspace
+
+# Data, logs, outputs
+*.log
+*.csv
+*.tsv
+*.dat
+*.db
+*.sqlite
+*.h5
+*.parquet
+*.pth
+*.joblib
+*.npy
+*.npz
+*.pkl
+*.json
+*.xlsx
+*.xls
+*.sav
+*.zip
+*.tar
+*.gz
+
+# Results, models, figures
+results/
+models/
+figures/
+
+# OS files
+.DS_Store
+Thumbs.db
